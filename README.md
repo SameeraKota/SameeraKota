@@ -11,10 +11,8 @@
 🔗 Connect with me - https://www.linkedin.com/in/krishna-sameera/
 
 
-![image](https://github.com/SameeraKota/SameeraKota/assets/151723407/0876461c-ba04-4213-8acf-e73066b6054e)
 
 
--
 
 <!---
 SameeraKota/SameeraKota is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
