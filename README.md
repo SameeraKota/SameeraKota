@@ -1,9 +1,15 @@
 👋 Hi, I’m Krishna Sameera Kota 
+
 🌍 Former geology enthusiast turned data geek to unearth insights from diverse datasets
+
 💻 Proficient in SQL, Advanced Excel, and Power BI
+
 🔍 Specialized in Data Cleaning, Data Modeling, Data Analysis, and Data Visualization
+
 📓 Currently learning Python to explore more about Data Analytics
-🔗 Connect with me - https://www.linkedin.com/ain/krishna-sameera/
+
+🔗 Connect with me - https://www.linkedin.com/in/krishna-sameera/
+
 
 
 -
